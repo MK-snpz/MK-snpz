@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Manu ♟️👋<br>I’m currently training as an IT specialist in application development and I’m just getting started on my programming journey 🚀💻. <br>In my free time, I work on my own home lab 🧠 and enjoy experimenting with new technologies 🛠️✨
+Hi, I’m Manu 👋<br>I’m currently training as an IT specialist in application development and I’m just getting started on my programming journey 🚀💻. <br>In my free time, I work on my own home lab 🧠 and enjoy experimenting with new technologies 🛠️✨
 
 I’m currently working on some useful websites for my local network 🌐🏠♟️
 
