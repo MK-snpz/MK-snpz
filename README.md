@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I’m Manu ♟️👋<br>I’m currently training as an IT specialist in application development and I’m just getting started on my programming journey 🚀💻. <br>In my free time, I work on my own home lab 🧠 and enjoy experimenting with new technologies 🛠️✨
 
+I’m currently working on some useful websites for my local network 🌐🏠♟️
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/npsqKeePXZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:klussmanu@icloud.com) 
